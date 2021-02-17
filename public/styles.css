@@ -1,0 +1,81 @@
+body {
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.heading h1 {
+    font-size: 50pt;
+    text-decoration: underline;
+}
+
+.landing {
+    /* from pexels.com */
+    background: url(./assets/earth.jpg) center 15%;
+    background-size: cover;
+
+    min-width: 70%;
+    height: 50vh;
+}
+
+.submitButton {
+    min-width: 30%;
+    max-width: 35%;
+    width: 20vh;
+
+    margin-left: 33%;
+    width: 50%;
+}
+
+.parentJumbo {
+    background-color: white;
+}
+
+.about-section h1 {
+    text-align: center;
+    font-size: 30pt;
+    text-decoration: underline;
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.15);
+}
+
+.about-section img {
+    max-width: 90%;
+    height: 30vh;
+
+    display: block;
+    margin-top: 2vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4vh;
+    
+    border: 7px solid white;
+    box-shadow: -4px 4px rgba(0, 0, 0, 0.461);
+}
+
+.about-section p {
+    text-align: center;
+    font-size: 20pt;
+}
+
+.card {
+    background-color: rgb(227, 249, 255);
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.card h1 {
+    margin-top: 2vh;
+    text-align: center;
+}
+
+.card img {
+    max-width: 50%;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.list-group-item {
+    background-color: rgb(227, 249, 255);
+}
