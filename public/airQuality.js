@@ -1,4 +1,4 @@
-const baseURL = 'http://api.airvisual.com/v2/'; //baseURL + endpoint?key=${key}
+const baseURL = 'https://api.airvisual.com/v2/'; //baseURL + endpoint?key=${key}
 const key = '2277dd3e-931a-4647-9939-2f1975107712';
 let url; //declare url
 
